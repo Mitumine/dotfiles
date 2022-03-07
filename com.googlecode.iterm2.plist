@@ -837,7 +837,7 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>970 770 620 392 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>63 20 1210 762 0 0 2560 1418 </string>
+	<string>322 204 1210 762 0 0 2560 1418 </string>
 	<key>NeverWarnAboutShortLivedSessions_3D76B007-79B2-4879-B026-88ECA6625A98</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_3D76B007-79B2-4879-B026-88ECA6625A98_selection</key>
@@ -1075,7 +1075,7 @@
 				<real>0.062745101749897003</real>
 			</dict>
 			<key>Background Image Location</key>
-			<string>/Users/Sotono/Pictures/壁紙_15/MDS_02_bl.jpg</string>
+			<string>/Users/Sotono/dotfiles/MDS_02_bl.jpg</string>
 			<key>Background Image Mode</key>
 			<integer>2</integer>
 			<key>Badge Color</key>
@@ -1616,7 +1616,7 @@
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>603805253.11904097</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
