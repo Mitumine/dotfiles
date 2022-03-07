@@ -1605,7 +1605,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {2560, 1440}}</string>
 		<key>topLeft</key>
-		<string>{1069, 1066}</string>
+		<string>{1069, 1067}</string>
 	</dict>
 	<key>NoSyncInstallationId</key>
 	<string>02D8ED37-39CE-4594-ABF8-BA7B8D939E03</string>
